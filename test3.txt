@@ -1,1 +1,2 @@
-example for diff command
+test3.txt
+
